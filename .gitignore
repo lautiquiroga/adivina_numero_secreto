@@ -1,0 +1,5 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Carpeta node_modules generada por npm
+node_modules/
