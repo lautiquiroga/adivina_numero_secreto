@@ -3,6 +3,3 @@
 
 # Carpeta node_modules generada por npm
 node_modules/
-
-# Carpeta package-lock.json generada por npm
-package-lock.json/
